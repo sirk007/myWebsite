@@ -1,8 +1,8 @@
-import React from 'react'
-
-import {Footer, Blog, Possibility, Features, Custom, Header} from './containers';
+import React from 'react';
+import {Footer, Blog, Possibility, Features, Custom, Header, ProjectTwo, FeaturesTwo, PossibilityTwo} from './containers';
 import {CTA, Brand, Navbar} from './components';
 import './App.css';
+
 
 const App =() => {
     return (
@@ -15,8 +15,11 @@ const App =() => {
             <Custom />
             <Features />
             <Possibility />
-            <CTA />
+            <ProjectTwo />
+            <FeaturesTwo />
+            <PossibilityTwo />
             <Blog />
+            <CTA />
             <Footer />
         </div>
     )

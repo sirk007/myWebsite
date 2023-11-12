@@ -61,3 +61,15 @@
     cursor: pointer;
 
 }
+
+.profile__navbar-portfolio-dropdown {
+    display: none;
+    position: absolute;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    padding: 20px;
+}
+
+.profile__navbar-portfolio:hover .profile__navbar-portfolio-dropdown {
+    display: block;
+}

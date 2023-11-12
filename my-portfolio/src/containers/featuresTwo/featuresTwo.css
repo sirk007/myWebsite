@@ -38,17 +38,3 @@
     align-items: center;
     flex-direction: column;
 }
-
-.project__possibility-image{
-    flex: 1;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    margin-right: 2rem;
-    margin-top: 1rem;
-}
-
-.project__possibility-image img{
-    width: 100%;
-    height: 100%;
-}

@@ -1,0 +1,19 @@
+.profile__header{
+    display:flex;
+    height: 100vh; 
+    margin: 0; 
+    padding: 0;
+}
+
+.profile__header-content{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+}
