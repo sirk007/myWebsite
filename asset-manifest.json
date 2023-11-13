@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myWebsite/static/css/main.02af8800.css",
+    "main.js": "/myWebsite/static/js/main.3dbf57e5.js",
+    "static/media/reactDatabase.png": "/myWebsite/static/media/reactDatabase.dce4cd803665a2757eb4.png",
+    "static/media/reactRoutes.png": "/myWebsite/static/media/reactRoutes.f58ae45c82012a18defb.png",
+    "static/media/reactProjectCode.png": "/myWebsite/static/media/reactProjectCode.4bdc7ac696bbca350290.png",
+    "static/media/blogNodeJS.png": "/myWebsite/static/media/blogNodeJS.aa1036544c68ce9a108b.png",
+    "static/media/phpNavbar.png": "/myWebsite/static/media/phpNavbar.916d251696500d066893.png",
+    "static/media/phpUserCreate.png": "/myWebsite/static/media/phpUserCreate.7c6ad94dd19624df895f.png",
+    "static/media/kristijonasChmieliauskas-CV.pdf": "/myWebsite/static/media/kristijonasChmieliauskas-CV.2aad49c3b9ae155ec023.pdf",
+    "static/media/blogMySQL.png": "/myWebsite/static/media/blogMySQL.00d3c5e1a4d922659056.png",
+    "static/media/PhpDatabase.png": "/myWebsite/static/media/PhpDatabase.a808253a0cb582c2865e.png",
+    "static/media/bashTerminal.png": "/myWebsite/static/media/bashTerminal.41a4a2167feae6668025.png",
+    "static/media/blogReact.png": "/myWebsite/static/media/blogReact.55d4ed86f4e34e223456.png",
+    "index.html": "/myWebsite/index.html",
+    "main.02af8800.css.map": "/myWebsite/static/css/main.02af8800.css.map",
+    "main.3dbf57e5.js.map": "/myWebsite/static/js/main.3dbf57e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02af8800.css",
+    "static/js/main.3dbf57e5.js"
+  ]
+}
